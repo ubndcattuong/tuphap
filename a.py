@@ -3,7 +3,7 @@ from PIL import Image
 
 
 # URL trỏ đến trang HTML chứa danh sách liên kết
-data = "https://ubndcattuong.github.io/vanhoatheduc/"  # Thay bằng URL online nếu đã upload
+data = "https://ubndcattuong.github.io/tuphap/"  # Thay bằng URL online nếu đã upload
 
 # Tạo mã QR
 qr = qrcode.QRCode(
